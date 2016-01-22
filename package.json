@@ -1,0 +1,17 @@
+{
+    "name": "jwiModule",
+    "version": "0.0.1",
+    "description": "Node.js module to define, mixin, extend classes",
+    "preferGlobal": "true",
+    "main": "jwiModule.js",
+    "bin": { "jwiModule": "jwiModule.js" },
+    "author": "Chen Peng ",
+    "keywords": ["class", "module", "mixin", "extend"],
+    "repository" : {
+        "type": "git",
+        "url": "https://github.com/jwis/jwiModule.git"
+    },
+    "dependencies": {
+    },
+    "engines": { "node": "*" }
+}
